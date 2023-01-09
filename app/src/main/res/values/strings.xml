@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Мой авто</string>
+    <string name="add_title">Информация о событии:</string>
+    <string name="add_date_title">Дата события:</string>
+</resources>
